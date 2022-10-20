@@ -1,4 +1,4 @@
-# GTA-3
+# GTA-3-Reamstered
 MODS
 
 CLEO + ModLoader + ASI Loader: https://www.mediafire.com/file/s80n19i09qcu16w/Cleo%252C_Modloader_y_Ultimate_ASI_Loader_para_GTA_III.7z/file
@@ -26,8 +26,6 @@ Burstable Tires: https://gtaforums.com/topic/898955-burstable-tyres/
 
 Breakable Windshields: https://gtaforums.com/topic/901608-breakable-windshields/
 
-Kioski: https://www.gtainside.com/en/gta3/mods/93194-kioski/
-
 Particle Ex: https://gtaforums.com/topic/913903-particleex/
 
 Passengers: https://libertycity.net/files/gta-3/114854-passengers.html
@@ -37,4 +35,4 @@ Sit boat fix: https://www.gtainside.com/en/gta3/mods/163007-sit-in-boat-boat-ani
 LCS Snowfall: https://gtaforums.com/topic/942893-lcs-psp-snowfall-port-r2/
 
 Interfaz HD: 
-https://www.mediafire.com/file/xg9hv18l8g7ua5q/Interfaz_HD_para_GTA_III.7z/file
+https://www.mediafire.com/file/lcz8o222v57fzvk/%2528III%2529Interfaz_HD.rar/file
