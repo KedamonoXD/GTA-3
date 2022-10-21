@@ -16,8 +16,6 @@ Skin and bones: https://www.mediafire.com/file/0pkqw9ziom4jb57/Skin_And_Bones_3.
 
 Tri-Pack: https://www.mixmods.com.br/2017/10/iii-vc-sa-gta-iii-hd-vehicles-tri-pack-carros-hd/
 
-Aircrafts III: https://www.mixmods.com.br/2017/03/iii-iii-aircraft-pilotar-avioes-no-gta-3/
-
 LCS/SA Camera: https://www.mixmods.com.br/2020/04/iii-vc-sa-lcs-vehicle-camera-port-camera-do-sa-e-lcs/
 
 Classic Axis: https://www.mixmods.com.br/2022/06/iii-vc-classic-axis/
